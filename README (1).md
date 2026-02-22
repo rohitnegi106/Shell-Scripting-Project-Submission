@@ -10,7 +10,7 @@ This project simulates a fully functional ATM system through an interactive term
 
 ---
 💾 How to Get This Project
-Option 1 — Clone using Git
+**Option 1 — Clone using Git**
 
 bash#
 Step 1: Clone the repository
@@ -20,7 +20,8 @@ git clone https://github.com/rohitnegi106/Shell-Scripting-Project-Submission.git
 # Step 2: Go into the project folder
 
 cd Shell-Scripting-Project-Submission
-Option 2 — Direct Download (No Git needed)
+
+**Option 2 — Direct Download (No Git needed)**
 
 Go to the repository on GitHub
 Click the green Code button
