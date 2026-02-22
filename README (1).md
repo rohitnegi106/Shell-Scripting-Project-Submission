@@ -17,7 +17,7 @@ Step 1: Clone the repository
 
 git clone https://github.com/rohitnegi106/Shell-Scripting-Project-Submission.git
 
-# Step 2: Go into the project folder
+Step 2: Go into the project folder
 
 cd Shell-Scripting-Project-Submission
 
