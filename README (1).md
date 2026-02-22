@@ -26,14 +26,10 @@ chmod +x Transaction.sh
 
 ## 🗂️ File Structure
 
-```
-Shell Scripting Project Submission/
-│
-├── Transaction.sh        # Main script — entire project in one file
-├── README.md             # Project documentation
-└── screenshots/          # Terminal output screenshots
-```
-
+├── Transaction.sh        # Main script
+├── README.md             # Documentation
+├── screenshots/          # Terminal output screenshots
+└── video/                # Screen recording of full execution
 ---
 
 ## 🔁 Program Flow
