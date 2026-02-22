@@ -9,6 +9,28 @@
 This project simulates a fully functional ATM system through an interactive terminal. It covers the complete ATM workflow — from opening a new bank account, issuing an ATM card, authenticating with a PIN, all the way through cash withdrawals and deposits — with real-time balance updates, transaction receipts, and robust error handling at every step.
 
 ---
+💾 How to Get This Project
+Option 1 — Clone using Git
+
+bash#
+Step 1: Clone the repository
+
+git clone https://github.com/rohitnegi106/Shell-Scripting-Project-Submission.git
+
+# Step 2: Go into the project folder
+
+cd Shell-Scripting-Project-Submission
+Option 2 — Direct Download (No Git needed)
+
+Go to the repository on GitHub
+Click the green Code button
+Click Download ZIP
+Extract the ZIP file on your laptop
+Open terminal and navigate to the extracted folder:
+
+cd path/to/Shell-Scripting-Project-Submission
+
+`````
 
 ## ⚡ Quick Start
 
