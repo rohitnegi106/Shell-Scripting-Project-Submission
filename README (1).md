@@ -52,8 +52,24 @@ chmod +x Transaction.sh
 ├── Transaction.sh        # Main script
 ├── README.md             # Documentation
 ├── screenshots/          # Terminal output screenshots
-└── video/                # Screen recording of full execution
----
+└── video.zip/                # Screen recording of full execution
+
+
+## 📹 Video File
+
+The video in this repository is compressed using GitHub's file size limits.
+
+### How to View It
+
+1. **Download the file** — click on it in the repository, then click the **"Download"** button (or the three dots `...` menu → Download)
+2. **Unzip it** — right-click the downloaded `.zip` file and select:
+   - **Windows:** "Extract All"
+   - **Mac:** Double-click to unzip automatically
+   - **Linux:** `unzip filename.zip`
+3. **Open the video** — double-click the extracted file to play it in your default media player (VLC recommended for best compatibility)
+
+> 💡 **Tip:** If the video doesn't play, try downloading [VLC Media Player](https://www.videolan.org/) — it supports virtually all video formats and is free.
+
 
 ## 🔁 Program Flow
 
